@@ -1,0 +1,25 @@
+.jumbotron {
+    padding-top: 6rem;
+    /* background-color: #e2edff; */
+    background-color: #9a6ffd;
+
+}
+
+#projects {
+    /* background-color: #e2edff; */
+    background-color: #9a6ffd;
+
+}
+
+.test {
+    background-color: #9a6ffd;
+}
+
+section {
+    padding-top: 6rem;
+}
+
+.cuscolor {
+    background-color: #7125fde3;
+    color: white;
+}
